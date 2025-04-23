@@ -106,7 +106,8 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## OUTPUT
-![Uploading Screenshot 2025-04-23 113454.png…]()
+![Screenshot 2025-04-23 113454](https://github.com/user-attachments/assets/5c623972-bb31-4f2a-a982-c632af4dec6c)
+
 
 ## RESULT
 Thus, the Python Program to detect object using web camera as been successfully executed.
